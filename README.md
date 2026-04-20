@@ -211,6 +211,7 @@ approach that employers in this field are looking for.
 ## Contact
 
 **Your Name**  
+Samuel Raymond Kwibe
 Southern New Hampshire University  
 GitHub: https://github.com/Samkwibe  
 Email: samuel.kwibe@snhu.edu
