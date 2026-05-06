@@ -208,6 +208,28 @@ approach that employers in this field are looking for.
 
 ---
 
+
+# Software Security Assessment — Artemis Financial
+
+## Overview
+Security vulnerability assessment and secure coding implementation
+for a Java Spring Boot financial services application.
+
+## What I Did
+- Ran OWASP Dependency-Check to identify vulnerable dependencies
+- Researched CVEs to assess real-world exploitability
+- Implemented HTTPS via SSL certificate and Spring Security
+- Added SHA-256 cryptographic hashing for data integrity verification
+- Re-ran dependency scans post-refactor to verify no new vulnerabilities
+
+## Tech Stack
+Java · Spring Boot · Spring Security · Maven
+OWASP Dependency-Check · SHA-256 · SSL/HTTPS
+
+## Key Concepts
+Vulnerability Assessment · Secure Coding · Cryptographic Hashing
+Dependency Analysis · Risk Prioritization · CVE Research
+
 ## Contact
 
 **Your Name**  
